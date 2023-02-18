@@ -1,5 +1,4 @@
 <script>
-  import { toggle_class } from "svelte/internal";
 
   let incomingTodo = "";
 

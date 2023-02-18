@@ -10,3 +10,5 @@ h1{
 
 <a href="/todos">Todo App</a>
 <a href="/form">Login Form</a>
+<a href="/globalState">state management</a>
+
