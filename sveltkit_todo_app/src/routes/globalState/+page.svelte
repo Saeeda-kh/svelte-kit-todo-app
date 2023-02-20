@@ -1,6 +1,11 @@
 <script>
 
 import { globalState, count } from "../../store";
+import {onDestroy, onMount} from "svelte";
+
+onMount(()=> console.log("component mounted"))
+
+onDestroy(()=> console.log("component destroyed"));
 
 let value;
 let counter;

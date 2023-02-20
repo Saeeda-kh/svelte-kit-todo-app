@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(203, 168, 236);
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-decoration: none;
+    font-size: medium;
+    font-weight: bold;
+    
+}

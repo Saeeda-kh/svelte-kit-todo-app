@@ -1,4 +1,7 @@
-
+<script>
+    import '../app.css';
+    import CarList from '../components/carList.svelte';
+</script>
 <style>
 h1{
     color: red;
@@ -11,4 +14,6 @@ h1{
 <a href="/todos">Todo App</a>
 <a href="/form">Login Form</a>
 <a href="/globalState">state management</a>
+
+<CarList/>
 
