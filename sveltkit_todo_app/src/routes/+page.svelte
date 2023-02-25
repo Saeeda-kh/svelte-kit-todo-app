@@ -16,6 +16,9 @@ h1{
 <a href="/tweened">tweened</a>
 <a href="/transitions">transitions</a>
 <a href="/useDirective">useDirective</a>
+<a href="/useComponent">Render First Components</a>
+<a href="/shop">shop</a>
+
 
 
 
