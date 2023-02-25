@@ -1,6 +1,5 @@
 <script>
     import '../app.css';
-    import CarList from '../components/carList.svelte';
 </script>
 <style>
 h1{
@@ -14,6 +13,10 @@ h1{
 <a href="/todos">Todo App</a>
 <a href="/form">Login Form</a>
 <a href="/globalState">state management</a>
+<a href="/tweened">tweened</a>
+<a href="/transitions">transitions</a>
+<a href="/useDirective">useDirective</a>
 
-<CarList/>
+
+
 
